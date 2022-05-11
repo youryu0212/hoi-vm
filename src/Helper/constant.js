@@ -1,4 +1,4 @@
-const API_URL = 'http://https://hoi-vending-machine.herokuapp.com:3002/';
+const API_URL = 'http://http://sample.herokuapp.com';
 export const DRINK_API = `${API_URL}/beverages`;
 export const WALLET_API = `${API_URL}/money/0`;
 export const INVESTMENT_API = `${API_URL}/money/1`;
