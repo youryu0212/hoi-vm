@@ -1,4 +1,4 @@
-const API_URL = `https://hoi-vending-machine.herokuapp.com:${process.env.PORT}/`;
+const API_URL = `https://hoi-vending-machine.herokuapp.com`;
 export const DRINK_API = `${API_URL}/beverages`;
 export const WALLET_API = `${API_URL}/money/0`;
 export const INVESTMENT_API = `${API_URL}/money/1`;
