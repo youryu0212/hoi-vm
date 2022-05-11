@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/youryu0212/hoi-vm/static/js/main.83b202a4.js",
+    "main.js": "/youryu0212/hoi-vm/static/js/main.d7b6bf1f.js",
     "index.html": "/youryu0212/hoi-vm/index.html",
-    "main.83b202a4.js.map": "/youryu0212/hoi-vm/static/js/main.83b202a4.js.map"
+    "main.d7b6bf1f.js.map": "/youryu0212/hoi-vm/static/js/main.d7b6bf1f.js.map"
   },
   "entrypoints": [
-    "static/js/main.83b202a4.js"
+    "static/js/main.d7b6bf1f.js"
   ]
 }
